@@ -75,8 +75,17 @@ education:
       #     - Bullet point
       #     - Bullet point
 experiences:
+    - role: Solutions Architect
+      time: 2021 - Present
+      company: Noname Security - Palo Alto, CA
+      details: |
+        A company focused on proactively securing your environment from API security vulnerabilities, misconfigurations, design flaws, and provides API attack protection with automated detection and response.
+          - Providing initial demonstrations of the Noname Security platform and identifying preliminary qualifications.
+          - Creating architectural diagrams for customer designed solutions and coverage of their specific API infrastructure.
+          - Working with customers to validate the solution and execute a final summary with management to illustrate business value.
+          - Help build go-to market playbook for technical teams in deploying best of breed demos and solution delivery.
     - role: Principal Sales Engineer
-      time: 2018 - Present
+      time: 2018 - 2021
       company: Forcepoint - Austin, TX
       details: |
         A company focused on transforming cybersecurity by taking a human-centric approach to securing critical data and assets within organizations.
