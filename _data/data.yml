@@ -75,8 +75,17 @@ education:
       #     - Bullet point
       #     - Bullet point
 experiences:
-    - role: Solutions Architect
-      time: 2021 - Present
+    - role: Senior Sales Engineer
+      time: 2023 - Present
+      company: Traceable AI - San Francisco, CA
+      details: |
+        A company focused on identifying, monitoring, testing, and protecting your APIs. Full coverage end to end of the API SDLC and ensuring customers have the visibility and protection required to protect their most critical assets, APIs.
+          - Helping customers develop excellent success criteria aligned with their business objectives to reduce risk of their API footprint.
+          - Evangelizing the need and requirement for a complete API security platform to protect the most critical assets and data.
+          - Responsible for conducting evaluations of the technology in customer environments to satisfy requirements and illustrate value aligned with their business drivers.
+          - Consistently work with product management to communicate enhancement requirements from customers to ensure the product will fully meet the needs of our customers and the API Security market.
+    - role: Senior Solutions Architect
+      time: 2021 - 2023
       company: Noname Security - Palo Alto, CA
       details: |
         A company focused on proactively securing your environment from API security vulnerabilities, misconfigurations, design flaws, and provides API attack protection with automated detection and response.
